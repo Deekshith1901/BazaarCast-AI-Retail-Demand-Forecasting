@@ -113,11 +113,21 @@ streamlit run app.py
 ```
 BazaarCast/
 │
-├── app.py                  # Streamlit working prototype
-├── BazaarCast.ipynb        # Primary evaluation notebook
-├── Sample - Superstore.csv # Dataset
-├── requirements.txt        # Python dependencies
-└── README.md               # Project documentation
+├── src/ # Core project modules
+│ ├── data.py # Data loading & preprocessing
+│ ├── model.py # Model definition
+│ └── train.py # Training & evaluation logic
+│
+├── notebooks/ # EDA and experiments
+│ └── BazaarCast.ipynb
+│
+├── Sample - Superstore.csv
+│
+├── app.py # Streamlit working prototype
+├── requirements.txt # Python dependencies
+├── README.md # Project documentation
+├── LICENSE # MIT License
+└── .gitignore # Git ignore rules
 ```
 
 ---
