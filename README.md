@@ -88,7 +88,8 @@ A fully functional **Streamlit web application** is included as the working prot
 - 🎥 **[Demo Video](https://drive.google.com/file/d/1s-n0N-yLBmP5E1rU6cOU2yoJ5PnaMdi6/view?usp=drive_link)**  
 - 📊 **[Project Presentation (PPT)](https://docs.google.com/presentation/d/1ymIwNTZ9lhwhhsi0wXmnhhTpFjgQxIcXCQv296nEsq8/edit?usp=drive_link)**  
 - 📘 **[Project Report](https://docs.google.com/document/d/1Rn0sDoJIaAyGrBAna0ZHA70YPtbLW2Tzt9Sy_gNeh6I/edit?usp=drive_link)**  
-- 📂 **[Dataset – Superstore Sales CSV](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)**  
+- 📂 **[Dataset – Superstore Sales CSV](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)**
+- 🌐 **[Live Streamlit App – BazaarCast](https://bazaarcast-ai-retail-demand-forecasting-xma4xqetawycn55jjr3l29.streamlit.app/)**
 
 ---
 
