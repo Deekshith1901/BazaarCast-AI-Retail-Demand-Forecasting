@@ -1,0 +1,56 @@
+# -------------------------------
+# Python cache & compiled files
+# -------------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+
+# -------------------------------
+# Virtual environments
+# -------------------------------
+venv/
+env/
+.venv/
+
+# -------------------------------
+# Jupyter Notebook checkpoints
+# -------------------------------
+.ipynb_checkpoints/
+
+# -------------------------------
+# Streamlit cache & config
+# -------------------------------
+.streamlit/
+.streamlit/secrets.toml
+
+# -------------------------------
+# OS / Editor files
+# -------------------------------
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# -------------------------------
+# Logs & temp files
+# -------------------------------
+*.log
+*.tmp
+
+# -------------------------------
+# Data files (OPTIONAL)
+# Uncomment if dataset is large or private
+# -------------------------------
+# *.csv
+
+# -------------------------------
+# Reports & outputs (OPTIONAL)
+# Uncomment if you don't want PDFs/PPTs tracked
+# -------------------------------
+# *.pdf
+# *.pptx
+
+# -------------------------------
+# Environment variables
+# -------------------------------
+.env
